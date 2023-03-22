@@ -1,5 +1,5 @@
 # Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation
-The official repo for [MIDL'23] "Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation"
+The official repo for [MIDL'23 Oral] "Inherent Consistent Learning for Accurate Semi-supervised Medical Image Segmentation"
 # Introduction
 We propose a novel Inherent Consistent Learning (ICL) method, which aims to learn robust semantic category representations through the semantic consistency guidance of labeled and unlabeled data to help segmentation.
 # Methods
